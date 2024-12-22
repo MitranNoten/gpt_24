@@ -1,0 +1,15 @@
+C:\Users\mitra\source\repos\gpt\1_zd\bin\Debug\net8.0\1_zd.exe
+C:\Users\mitra\source\repos\gpt\1_zd\bin\Debug\net8.0\1_zd.deps.json
+C:\Users\mitra\source\repos\gpt\1_zd\bin\Debug\net8.0\1_zd.runtimeconfig.json
+C:\Users\mitra\source\repos\gpt\1_zd\bin\Debug\net8.0\1_zd.dll
+C:\Users\mitra\source\repos\gpt\1_zd\bin\Debug\net8.0\1_zd.pdb
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.AssemblyInfoInputs.cache
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.AssemblyInfo.cs
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.csproj.CoreCompileInputs.cache
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.sourcelink.json
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.dll
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\refint\1_zd.dll
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.pdb
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\1_zd.genruntimeconfig.cache
+C:\Users\mitra\source\repos\gpt\1_zd\obj\Debug\net8.0\ref\1_zd.dll
